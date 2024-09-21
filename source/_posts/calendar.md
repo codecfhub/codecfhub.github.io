@@ -25,4 +25,6 @@ cover: images/calendar-cover.png
 ## 下载链接
 - [iOS AppStore 下载](https://apps.apple.com/cn/app/id1660837805?l=zh-cn)
 
+- [iOS AppStore 极速版 下载](https://apps.apple.com/cn/app/id6673917595?l=zh-cn)
+
 - [Android Google Play 下载](https://play.google.com/store/apps/details?id=art.xingzou.calendarapp)
